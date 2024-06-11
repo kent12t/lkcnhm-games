@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Treasure Hunting Game</title>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script>
+      const vibrationPattern = [50, 50, 50];
+
+
+
+
+      AFRAME.registerComponent('tilt-controller', {
+        init: function() {
+          this.camera = document.querySelector('[camera]');
+          window.addEventListener('deviceorientation', e => {
+            const { alpha, beta, gamma } = e;
+            this.camera.setAttribute('rotation', {
+              x: beta,
+              y: alpha,
+              z: -gamma
+            });
+          });
+        }
+      });
+
+      AFRAME.registerComponent('item-selector', {
+  init: function() {
+    this.hoverTime = 0;
+    this.ring = null;
+    const camera = document.querySelector('a-entity[camera]');
+
+    this.el.addEventListener('mouseenter', () => {
+
+      this.hoverTime = 0;
+      this.ring = document.createElement('a-entity');
+      this.ring.setAttribute('geometry', {
+        primitive: 'ring',
+        radiusInner: 1,
+        radiusOuter: 2
+      });
+      this.ring.setAttribute('material', {
+        color: 'red',
+        opacity: 0.3,
+        side: 'double'
+      });
+      this.ring.setAttribute('look-at', camera.getAttribute('position'));
+      this.el.appendChild(this.ring);
+
+      navigator.vibrate(vibrationPattern);
+    });
+
+    this.el.addEventListener('mouseleave', () => {
+      this.hoverTime = 0;
+      this.el.removeChild(this.ring);
+    });
+
+    this.el.addEventListener('tick', (time, deltaTime) => {
+      if (this.ring !== null) {
+        const intersectedEls = this.el.components.raycaster.intersectedEls;
+        if (intersectedEls.indexOf(this.el) !== -1) {
+          this.hoverTime += deltaTime;
+          console.log(this.hoverTime);
+          if (this.hoverTime >= 3000) {
+            console.log('Item selected:', this.el.id);
+            // TODO: add code to perform action when item is selected
+          }
+        } else {
+          this.hoverTime = 0;
+        }
+      }
+    });
+  }
+});
+
+document.addEventListener('mousedown', onMouseDown);
+
+function onMouseDown(event) {
+  if (event.button === 0) {
+    document.addEventListener('mousemove', onMouseMove);
+    document.addEventListener('mouseup', onMouseUp);
+  }
+}
+
+function onMouseMove(event) {
+  const cameraEl = document.querySelector('a-entity[camera]');
+  const { movementX, movementY } = event;
+  const rotation = cameraEl.getAttribute('rotation');
+  const newRotation = {
+    x: rotation.x - movementY * 0.2,
+    y: rotation.y - movementX * 0.2,
+    z: rotation.z
+  };
+  cameraEl.setAttribute('rotation', newRotation);
+}
+
+function onMouseUp() {
+  document.removeEventListener('mousemove', onMouseMove);
+  document.removeEventListener('mouseup', onMouseUp);
+}
+
+    </script>
+  </head>
+  <body>
+
+
+    <a-scene>
+      <a-assets>
+        <img id="forest" src="../../assets/images/finding-forest-bg.png">
+      </a-assets>
+      <a-camera>
+        <a-cursor></a-cursor>
+        <a-entity raycaster="objects: [data-raycastable]"></a-entity>
+      </a-camera>
+      <a-sky src="#forest" rotation="0 -90 0" radius="10" 360-image></a-sky>  
+      <!-- <a-sky src="forest360.jpeg"></a-sky> -->
+      <a-entity id="item1" class="item"  geometry="primitive: sphere; radius: 0.5" material="color: blue; transparent: true; opacity: 0.5 "  position="-2.5 0.0 -3" item-selector data-raycastable></a-entity>
+      <a-entity id="item2" class="item"  geometry="primitive: sphere; radius: 0.5" material="color: blue; transparent: true; opacity: 0.5"  position="0 1.5 -5" item-selector data-raycastable></a-entity>
+      <a-entity id="item3" class="item"  geometry="primitive: sphere; radius: 0.5" material="color: blue; transparent: true; opacity: 0.5" position="1.5 0.5 -3" item-selector data-raycastable></a-entity>
+      <a-entity camera raycaster="objects: .item" tilt-controller></a-entity>
+    </a-scene>
+  </body>
+</html>

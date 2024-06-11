@@ -1,0 +1,1842 @@
+[
+  {
+    "ImageUrl": "assets/images/tutorial-icon-1.png",
+    "Type": "image",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "1",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-image-1"
+  },
+  {
+    "Text": "Odonata\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class4",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 3": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class4"
+  },
+  {
+    "ImageUrl": "assets/images/chapter4-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "bg1",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy",
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-bg1"
+  },
+  {
+    "Text": "He visited Singapore frequently and recorded his time in his journals. How much do you think Singapore has changed since Wallace's time?\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "Name": "chapter02-text-2"
+  },
+  {
+    "Text": "Place your NFC-enabled smartphone at the Musee\\* scan point for a few seconds until the activity is launched.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "2",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-text-2"
+  },
+  {
+    "Text": "Their forewings have hardened into elytra, which protect the body and cover the hindwings. A straight line runs down the abdomen where the elytra meet.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 2": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class2"
+  },
+  {
+    "Text": "These insects mimic plants and foliage such as sticks and leaves. Their bodies may be long and cylindrical, or flattened, with long slender legs.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class3",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 2": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class3"
+  },
+  {
+    "Text": "Together with **_Lee Kong Chian Natural History Museum_** and **_Musee\\*_**, start your journey and immerse in an interactive learning experience.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recP9p5r6dFnM9oah"
+    ],
+    "AssetNumber": "1",
+    "Chapters copy": [
+      "recON5Rs0gCgQcVKl"
+    ],
+    "Onboarding copy": [
+      "recvYfTEvWPIGzENx"
+    ],
+    "Name": "onboarding-text-1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "color1",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 6": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-image-color1"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-bg2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3-tutorial-1-1.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "3",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 4": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-image-3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-tutorial-1.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 4": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-3"
+  },
+  {
+    "Text": "Where is this boundary, and how do the mammals on either side differ?\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 2": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-2"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "h3",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-text-h3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-placental-info.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class1",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 4": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-class1"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "h3",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 3": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-text-h3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3b-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color3",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 6": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-color3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3b-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color6",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 6": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-color6"
+  },
+  {
+    "Text": "Marsupials have a short gestation period. They give birth to young alive, and continue development in a pouch or protective skin fold of the mother.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class2",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 2": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-class2"
+  },
+  {
+    "ImageUrl": "assets/images/chapter2-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "bg2",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 5": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-image-bg2"
+  },
+  {
+    "ImageUrl": "assets/images/tutorial-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "bg",
+    "Name": "tutorial-image-bg"
+  },
+  {
+    "ImageUrl": "assets/images/tutorial-icon-2.png",
+    "Type": "image",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "2",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-image-2"
+  },
+  {
+    "ImageUrl": "assets/images/chapter2-menu-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "menu-bg",
+    "Name": "chapter03-image-menu-bg"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/insect-sorting/longhorn.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 4": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-class2"
+  },
+  {
+    "ImageUrl": "https://didny.github.io/musee-lkcnhm/activities/sorting/",
+    "Type": "activity",
+    "Screen": [
+      "recubFgjrBRgayEwk"
+    ],
+    "AssetNumber": "3",
+    "Name": "chapter_menu-activity-3"
+  },
+  {
+    "Text": "Phasmatodea\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class3",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 3": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class3"
+  },
+  {
+    "ImageUrl": "assets/images/chapter2-menu-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "menu-bg",
+    "Name": "chapter02-image-menu-bg"
+  },
+  {
+    "ImageUrl": "assets/images/chapter4-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "bg5",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy",
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-bg5"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/insect-sorting/flashwing.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class4",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 4": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-class4"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "color1",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 6": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-color1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 6": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-color2"
+  },
+  {
+    "Text": "Watch the video in the gallery to learn more about Wallace's time in Singapore.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "3",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 2": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-text-3"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 3": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-text-2"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "1",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 3": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-text-1"
+  },
+  {
+    "Text": "Into the City\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "h1",
+    "Chapters 2 copy": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "Name": "chapter02-text-h1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 6": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-color1"
+  },
+  {
+    "Text": "These insects have four large wings covered with tiny scales that result in a variety of wing patterns. They have a curled proboscis at rest.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 2": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class1"
+  },
+  {
+    "Text": "Learn how to differentiate four orders (groups of similar species in the Linnaean classification system) of common insects.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 2": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-1"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "h2",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-text-h2"
+  },
+  {
+    "Text": "Tropical rainforests are extremely diverse habitats. They have complex forest structures that support an abundance of species, especially insects.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2": [
+      "rechbUP589oR5ORmG"
+    ],
+    "Name": "chapter03-text-1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/insect-sorting/tiger.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 4": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-class1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color2",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 6": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-image-color2"
+  },
+  {
+    "Text": "These insects have elongated membranous wings of similar shape and size. Their thorax and abdomen are long and slender. They have toothed mouthparts.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class4",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 2": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class4"
+  },
+  {
+    "ImageUrl": "assets/images/chapter1-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "bg2",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 5": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-image-bg2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-tutorial-2.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 4": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-4"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "color5",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 6": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-color5"
+  },
+  {
+    "Text": "Complete the activity to earn a stamp on the home screen.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "3",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-text-3"
+  },
+  {
+    "Text": "Using the icons as reference, go to each checkpoint marked on the map to start the activity.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "1",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-text-1"
+  },
+  {
+    "Text": "What do you think an early naturalist from the 1800s might pack on an expedition to Singapore?\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2": [
+      "rec062bcNUQNQX23I"
+    ],
+    "Name": "chapter01-text-2"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-bg1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/insect-sorting/stick.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class3",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 4": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-class3"
+  },
+  {
+    "Text": "British naturalist Alfred Russel Wallace journeyed through the Malay Archipelago to study its wildlife in the 1800s.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "Name": "chapter02-text-1"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "h1",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-text-h1"
+  },
+  {
+    "Text": "Sort the insects you found to their respective orders by dragging them to the correctly labelled specimen display boxes.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 2": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3-tutorial-2-2.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 4": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-2"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3b-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg6",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-bg6"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter1-tutorial-2.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 4": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-image-4"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "2",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 3": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-text-2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "color3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 6": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-color3"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 3": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-text-1"
+  },
+  {
+    "Text": "Identify which species are found to the west or east of the Wallace Line by dragging the animal to the correct side of the boundary.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 2": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-4"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2 copy 2": [
+      "rechbUP589oR5ORmG"
+    ],
+    "Name": "chapter03-image-2"
+  },
+  {
+    "Text": "Lepidoptera\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 3": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class1"
+  },
+  {
+    "Text": "Learn about the items a naturalist from the 1800s would bring to collect and preserve specimens from Singapore's forests.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "3",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 2": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-text-3"
+  },
+  {
+    "ImageUrl": "assets/images/chapter4-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "bg4",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy",
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-bg4"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "h3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 3": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-h3"
+  },
+  {
+    "Text": "Placental Mammals\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class1",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 3": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-class1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter2-tutorial-2.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 4": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-image-4"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3b-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color5",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 6": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-color5"
+  },
+  {
+    "Text": "Tap on the highlighted zones to zoom in, and spot insects in their natural habitat. Tap the insect to collect it and learn about them.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 2": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-text-2"
+  },
+  {
+    "Text": "What interesting insects might a naturalist encounter, collect, and preserve in Singapore's rainforests?\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2": [
+      "rechbUP589oR5ORmG"
+    ],
+    "Name": "chapter03-text-2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/brown-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "color1",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 6": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-image-color1"
+  },
+  {
+    "Text": "After years of mapping the distributions of species in the Malay Archipelago, naturalist Alfred Russel Wallace proposed a boundary separating where certain mammals can be found.**\"**\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "Name": "chapter04-text-1"
+  },
+  {
+    "Text": "Known as the Wallace Line, the boundary cuts through Indonesia between Bali and Lombok. Learn how to differentiate the three types of mammals.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "3",
+    "Name": "chapter04-text-3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "color2",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 6": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-image-color2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2 copy 2": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "Name": "chapter04-image-2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-marsupials-info.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class2",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 4": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-class2"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 3": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2 copy 2": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "Name": "chapter04-image-1"
+  },
+  {
+    "Text": "Explore the rainforest landscape by dragging it to look around for four insects hidden in the forest.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 2": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-text-1"
+  },
+  {
+    "Text": "Pay attention to the way of life back then and how certain familiar sights may have changed through time. Answer the five multiple-choice questions.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 2": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-text-4"
+  },
+  {
+    "Text": "Obtaining Specimens\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "h2",
+    "Chapters 2 copy": [
+      "rechbUP589oR5ORmG"
+    ],
+    "Name": "chapter03-text-h2"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 3": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "color4",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 6": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-color4"
+  },
+  {
+    "ImageUrl": "../../assets/images/onboard/layoutMap.jpg",
+    "Type": "image",
+    "Screen": [
+      "recP9p5r6dFnM9oah"
+    ],
+    "AssetNumber": "1",
+    "Name": "onboarding-image-1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color1",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 6": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-image-color1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter1-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2 copy 2": [
+      "rec062bcNUQNQX23I"
+    ],
+    "Name": "chapter01-image-1"
+  },
+  {
+    "Text": "Obtaining Specimens\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "h1",
+    "Chapters 2 copy": [
+      "rechbUP589oR5ORmG"
+    ],
+    "Name": "chapter03-text-h1"
+  },
+  {
+    "Text": "Monotremes\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 3": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-class3"
+  },
+  {
+    "ImageUrl": "assets/images/chapter4-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "bg2",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy",
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-bg2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter2-tutorial-1.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "3",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 4": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-image-3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2 copy 2": [
+      "rechbUP589oR5ORmG"
+    ],
+    "Name": "chapter03-image-1"
+  },
+  {
+    "ImageUrl": "assets/images/chapter1-menu-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "menu-bg",
+    "Name": "chapter01-image-menu-bg"
+  },
+  {
+    "Text": "Packing for an Expedition\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "h2",
+    "Chapters 2 copy": [
+      "rec062bcNUQNQX23I"
+    ],
+    "Name": "chapter01-text-h2"
+  },
+  {
+    "Text": "Coleoptera\"\n",
+    "Type": "text",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "class2",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 3": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-text-class2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter2-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2 copy 2": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "Name": "chapter02-image-2"
+  },
+  {
+    "Text": "Naturalists travelled widely to document the amazing biodiversity that call Earth home. They brought equipment to collect and preserve specimens they found.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2": [
+      "rec062bcNUQNQX23I"
+    ],
+    "Name": "chapter01-text-1"
+  },
+  {
+    "ImageUrl": "assets/images/chapter2-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "bg1",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 5": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-image-bg1"
+  },
+  {
+    "Text": "Find all **_four_** checkpoints in the Heritage Gallery and unlock activities that will challenge you to think, act, and feel like a naturalist.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recP9p5r6dFnM9oah"
+    ],
+    "AssetNumber": "3",
+    "Chapters copy": [
+      "recON5Rs0gCgQcVKl"
+    ],
+    "Onboarding copy": [
+      "recvYfTEvWPIGzENx"
+    ],
+    "Name": "onboarding-text-3"
+  },
+  {
+    "Text": "Monotremes lay eggs. Instead of teats, mothers secrete milk for their young via pores on their body.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 2": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-class3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/green-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "color2",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 6": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-color2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter2-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "1",
+    "Chapters 2 copy 2": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "Name": "chapter02-image-1"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3b-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg3",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-bg3"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg2",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 5": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-image-bg2"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "h4",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 3": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-h4"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3b-info-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "color4",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 6": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-color4"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg1",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 5": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-image-bg1"
+  },
+  {
+    "Text": "These mammals give birth to live young, and nourish embryos via a placenta throughout the gestation period: the period of embryo development in the womb.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class1",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 2": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-class1"
+  },
+  {
+    "Text": "Tutorial\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "h4",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 3": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-text-h4"
+  },
+  {
+    "ImageUrl": "assets/images/tutorial-icon-3.png",
+    "Type": "image",
+    "Screen": [
+      "recxrbBfZ7ysg7Fva"
+    ],
+    "AssetNumber": "3",
+    "Chapters copy": [
+      "rec5yDQnaycGXEluN"
+    ],
+    "Name": "tutorial-image-3"
+  },
+  {
+    "ImageUrl": "assets/images/chapter4-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "bg3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy",
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-bg3"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3-tutorial-1-2.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Activities 4": [
+      "recLBwRIJbFkf8MXE"
+    ],
+    "Name": "chapter03-activity03-image-4"
+  },
+  {
+    "ImageUrl": "assets/images/chapter1-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "bg1",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 5": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-image-bg1"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3b-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg5",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-bg5"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter1-icon.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "2",
+    "Chapters 2 copy 2": [
+      "rec062bcNUQNQX23I"
+    ],
+    "Name": "chapter01-image-2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/brown-frame.png",
+    "Type": "image",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "color2",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Activities 6": [
+      "recYxAaQE87dZT55d"
+    ],
+    "Name": "chapter02-activity02-image-color2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter3-tutorial-2-1.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "1",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 4": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-1"
+  },
+  {
+    "Text": "Marsupials\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class2",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 3": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-text-class2"
+  },
+  {
+    "Text": "Packing for an Expedition\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "h1",
+    "Chapters 2 copy": [
+      "rec062bcNUQNQX23I"
+    ],
+    "Name": "chapter01-text-h1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter1-tutorial-1.png",
+    "Type": "image",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "3",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 4": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-image-3"
+  },
+  {
+    "Text": "A New Discovery\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "h1",
+    "Chapters 2 copy": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "Name": "chapter04-text-h1"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "assets/images/chapter4-monotremes-info.png",
+    "Type": "image",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "class3",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Activities 4": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "Name": "chapter04-activity05-image-class3"
+  },
+  {
+    "Text": "Step into the past, and follow **_In the Footsteps of a Naturalist\\*_** to explore Singapore, its rainforests, and rich biodiversity in the 1800s.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recP9p5r6dFnM9oah"
+    ],
+    "AssetNumber": "2",
+    "Chapters copy": [
+      "recON5Rs0gCgQcVKl"
+    ],
+    "Onboarding copy": [
+      "recvYfTEvWPIGzENx"
+    ],
+    "Name": "onboarding-text-2"
+  },
+  {
+    "Text": "Next, drag and arrange all the items to fit into the open luggage trunk.\"\n",
+    "Type": "text",
+    "Screen": [
+      "recLV1w53DLvYdD2q"
+    ],
+    "AssetNumber": "4",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Activities 2": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "Name": "chapter01-activity01-text-4"
+  },
+  {
+    "Name": "--"
+  },
+  {
+    "ImageUrl": "assets/images/chapter3b-info-bg.png",
+    "Type": "image",
+    "Screen": [
+      "recYy3TDckZBhdWww"
+    ],
+    "AssetNumber": "bg4",
+    "Activities": [
+      "recESKmangzLiDMLy"
+    ],
+    "Activities 5": [
+      "recESKmangzLiDMLy"
+    ],
+    "Name": "chapter03-activity04-image-bg4"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "https://didny.github.io/musee-lkcnhm/activities/dragging/",
+    "Type": "activity",
+    "Screen": [
+      "recubFgjrBRgayEwk"
+    ],
+    "AssetNumber": "4",
+    "Name": "chapter_menu-activity-4"
+  },
+  {
+    "Text": "A New Discovery\"\n",
+    "Type": "text",
+    "Screen": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "AssetNumber": "h2",
+    "Chapters 2 copy": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "Name": "chapter04-text-h2"
+  },
+  {
+    "Text": "\n",
+    "ImageUrl": "https://didny.github.io/musee-lkcnhm/activities/snapping/",
+    "Type": "activity",
+    "Screen": [
+      "recubFgjrBRgayEwk"
+    ],
+    "AssetNumber": "1",
+    "Name": "chapter_menu-activity-1"
+  },
+  {
+    "Text": "Into the City\"\n",
+    "Type": "text",
+    "Screen": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "AssetNumber": "h2",
+    "Chapters 2 copy": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "Name": "chapter02-text-h2"
+  }
+]

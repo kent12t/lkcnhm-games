@@ -1,0 +1,127 @@
+[
+  {
+    "id": 4,
+    "answer01": "Gharry",
+    "score01": "10",
+    "answer02": "Rickshaw",
+    "score02": "0",
+    "answer03": "Tram",
+    "score03": "0",
+    "explanation": "Passengers were transported on gharries, or horse-drawn carriages. Goods were transported on bullock carts instead.",
+    "question": "What was the common mode of transport on the streets?",
+    "Screens": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "ActivityLink": [
+      "recYxAaQE87dZT55d"
+    ],
+    "quizBgImageUrl": "assets/images/activity2-bg.png",
+    "answerBgImageUrl": "assets/images/activity2-bg.png",
+    "answerButtonImageUrl": "assets/images/activity2-answer-button.png",
+    "correctImageUrl": "assets/images/activity2-correct.png",
+    "wrongImageUrl": "assets/images/activity2-wrong.png",
+    "activityId": [
+      2
+    ]
+  },
+  {
+    "id": 1,
+    "answer01": "8 January 1823",
+    "score01": "0",
+    "answer02": "18 April 1854",
+    "score02": "10",
+    "answer03": "2 March 1869",
+    "score03": "0",
+    "explanation": "As a first-class passenger aboard the steamship Pottinger, Wallace's arrival in 1854 was published in the local newspaper.",
+    "question": "When did Wallace arrive in Singapore?",
+    "Screens": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "ActivityLink": [
+      "recYxAaQE87dZT55d"
+    ],
+    "quizBgImageUrl": "assets/images/activity2-bg.png",
+    "answerBgImageUrl": "assets/images/activity2-bg.png",
+    "answerButtonImageUrl": "assets/images/activity2-answer-button.png",
+    "correctImageUrl": "assets/images/activity2-correct.png",
+    "wrongImageUrl": "assets/images/activity2-wrong.png",
+    "activityId": [
+      2
+    ]
+  },
+  {
+    "id": 5,
+    "answer01": "Bukit Timah",
+    "score01": "10",
+    "answer02": "MacRitchie",
+    "score02": "0",
+    "answer03": "Pulau Ubin",
+    "score03": "0",
+    "explanation": "Wallace collected no less than 700 beetles from what he claimed to be no more than one square mile of forest in Bukit Timah.",
+    "question": "In which forest did Wallace collect at least 700 species of beetles from?",
+    "Screens": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "ActivityLink": [
+      "recYxAaQE87dZT55d"
+    ],
+    "quizBgImageUrl": "assets/images/activity2-bg.png",
+    "answerBgImageUrl": "assets/images/activity2-bg.png",
+    "answerButtonImageUrl": "assets/images/activity2-answer-button.png",
+    "correctImageUrl": "assets/images/activity2-correct.png",
+    "wrongImageUrl": "assets/images/activity2-wrong.png",
+    "activityId": [
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "answer01": "Straits dollars",
+    "score01": "0",
+    "answer02": "Malayan dollars",
+    "score02": "0",
+    "answer03": "Spanish dollars",
+    "score03": "10",
+    "explanation": "The Spanish dollar was the main currency used throughout the region since the 1500s, when the Philippines was colonised by the Spanish.",
+    "question": "What was the currency used in Singapore during Wallace’s time?",
+    "Screens": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "ActivityLink": [
+      "recYxAaQE87dZT55d"
+    ],
+    "quizBgImageUrl": "assets/images/activity2-bg.png",
+    "answerBgImageUrl": "assets/images/activity2-bg.png",
+    "answerButtonImageUrl": "assets/images/activity2-answer-button.png",
+    "correctImageUrl": "assets/images/activity2-correct.png",
+    "wrongImageUrl": "assets/images/activity2-wrong.png",
+    "activityId": [
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "answer01": "Plaza Singapura",
+    "score01": "0",
+    "answer02": "Raffles City Shopping Mall",
+    "score02": "10",
+    "answer03": "National Gallery Singapore",
+    "score03": "0",
+    "explanation": "Wallace frequented the Singapore Library, housed within Raffles Institution at its former site along Bras Basah Road.",
+    "question": "Which building stands at the original site of the Singapore Library?",
+    "Screens": [
+      "recGLOE7AFeycsPCg"
+    ],
+    "ActivityLink": [
+      "recYxAaQE87dZT55d"
+    ],
+    "quizBgImageUrl": "assets/images/activity2-bg.png",
+    "answerBgImageUrl": "assets/images/activity2-bg.png",
+    "answerButtonImageUrl": "assets/images/activity2-answer-button.png",
+    "correctImageUrl": "assets/images/activity2-correct.png",
+    "wrongImageUrl": "assets/images/activity2-wrong.png",
+    "activityId": [
+      2
+    ]
+  }
+]

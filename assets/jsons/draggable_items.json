@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Wombat",
+    "correctAreaLink": [
+      "recCN8TKfmk3KAOv0"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "attufTNh8JQbwfxLP",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/qJTQlUwpEfWOV1O-RiT-Sw/B-vgsBwp-RXw69GWJDBgngSt_7xy0f-kihYUNUXV1P01ITGnf4KkpRHy-9Lh6G-pTUAE6x51Uop7jhSTvYkndk6vrHDIDcT_Z9UQqe8hWN8/ZdaiE5v-TpubLTzN3fshC7KChv2vrvn8sBSCiuWKvx4",
+        "filename": "wombat.png",
+        "size": 536529,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/7nO52EVClBwgstcPfKXxQg/f9ulGzihDOJh2aW6iU4nAhi0O3WyH8Os19tA4sGd9dupm5Psbh4EYm4TmMTpfQ0bZeK7tHi9RgUUEH-k5rrljg/Wg5YqiCM0BRZgO-STq9YAzIPFfGxenM9QB59rbXDosw",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/KjKAkf7eMp2TAQO2VB_-0g/WBpGMdzVCPIgJ8uxK7nAAF1DOsAKER8EcbPH5Q7NJQ36UusGP3Eq6qcSH9K4J_KB0r7sZ-mycJqVSGpSklVnEQ/quFN_NRv3mUXfT90TSnmsJ8wpuZpLifRnmMjYXngrbM",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/8VGpljAPkpB4uHYtu50kaQ/xV8IRA1aLwcHImlpchI2IvsJmAcuZHJ76I0WorbdTzYTy3wo9sFQa4hxrp6Ie6DfCtUz5qJBSuE-Kga8_wKtyg/s_sIac7kzpZyVcYlIvbpfL8U_tb946mUFwHPdqRBO5w",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Common wombat (Vombatus ursinus)",
+    "DraggableTypesLink": [
+      "recr4NQFRwkXeHYpB"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "wombat",
+    "imageUrl": "../../assets/images/wallace-sorting/wombat.png",
+    "correctArea": [
+      "east"
+    ],
+    "type": [
+      "marsupials"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/wombat-icon.png"
+  },
+  {
+    "name": "Platypus",
+    "correctAreaLink": [
+      "recCN8TKfmk3KAOv0"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "atteByvIoHp3svt2z",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/ortTdOmn9lhljB8d3kblXQ/1uBDfKhAkXeMjZOremeIwp5ETEuvFq2WzFgTG7f_D3Zh2tj698Qhm40aBD30D8jcqef-j_FuzLc3Ph0CoPmHUNgu_yKRnJk7i-5GKC0N_wM/It1ibv1cB6JQMHe33TQryx8Y2re759nJsWS5F1if1WA",
+        "filename": "platypus.png",
+        "size": 269960,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/KYLUCoMbok-p2E2jZpAmXw/X7xcnotVAcPLaNQdymYjKCTZPP77GwoUveFvzjmefFW4Z3lk8fJBdrEJHnWsfuIKCjhFhDhqAwyZ-TWRS8e6BA/djtzZE9iyy6G2ik6eQSN_qJyIhXfEwYGEFg2oAWkEAc",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/O9OzPNbphQcu7Yn4lcDNRQ/Am7Du6UtL5ugSOjfLzDY33O0enV8pjxigIHhq4PX6WUoRspOe_hOuH7hRCQkNG6n6kgo4bnGUzbeaz4hg-I3Ng/LDjbuBBcEhvsLuAcPoojdjzU36xz7XNJlJGcPBU9I70",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/XKF3_H6PDbs1fbHY5NaSAg/Bzw2W_7dYFBPZgB1NngA3A88Q2CqMUE-_yiuMhjOGdDh2Wpya76knOCOrbI6nULiu7K5AIgJ0idaO4q7yjq6nQ/XRMzsVOa2sBJfBxWo8VaL7BvtFEzE01RX5E0wZu_H2c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Platypus (Ornithorhynchus anatinus)",
+    "DraggableTypesLink": [
+      "rec9QDynXiH8UG8Lj"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "platypus",
+    "imageUrl": "../../assets/images/wallace-sorting/platypus.png",
+    "correctArea": [
+      "east"
+    ],
+    "type": [
+      "monotremes"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/platypus-icon.png"
+  },
+  {
+    "name": "Tiger",
+    "correctAreaLink": [
+      "rec8wzSEDWYGLNrxx"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "attGXBl5D3jxP4BgV",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/ufN3wb1UPTqnUvPf1nJBJg/IER9q5nmLNcLVhemlSrUAAgk3FGvzV1BnEnA5c6yEp8q4sMrkrH042VjmFnYMaoebjhRVRVZ6macAwRK43fXWZGFYTHm3ijVX7TcZvX6XqU/7qA2LW6Q9KQnXWcBHBtoaDysLo1XjLu3A_bnG_oX1GI",
+        "filename": "tiger.png",
+        "size": 400336,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/-QY7wj3ZFlVoHqUIZHZUBQ/P0LeI7wiTt7Sv9l7Z-kxRIHZfSJr2p5GyMsvttwYwenHOiunT5R9Xac8QkfoN4B7zyjtlzk7d23i8TuX6IjyqQ/ZRPmDC2XuFAIOCLOeUXOD0Xe4SrkDx2rqSqOAZRa7gU",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/kP_91g5-9_Aq21_xY20nJQ/VKXR6MWTJVmGP8ZlSBPdJKdGGGu274Zo-kj-W5zdbItxW4Zf8DdUU8JyGJ25WOc2PuO1bynRkxz2pxoUo9yhcw/g3yO-nuPGXe9wvVzOejlu4QgxuUvaFp6nQR7oKPGOJ8",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/TjswEPM_NPXbpmAmOwmirg/D3IZYGND34iKY0tRkQxPekL71siePfslXjZ-hI4P3pespCLZwayIM-kA0rpZwEG1WGTWkVGpTFoYn3iwyqFu6Q/Y67HKWPxFzz5dXKEjbfoORNPykW4RFP2Hq654lyhgPQ",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Tiger (Panthera tigris)",
+    "DraggableTypesLink": [
+      "recONZAHtxEc9cFFp"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "tiger",
+    "imageUrl": "../../assets/images/wallace-sorting/tiger.png",
+    "correctArea": [
+      "west"
+    ],
+    "type": [
+      "placental"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/tiger-icon.png"
+  },
+  {
+    "name": "Echidna",
+    "correctAreaLink": [
+      "recCN8TKfmk3KAOv0"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "attTRmdgC0YxC8o59",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/oiyMYnCGELwiucxTadPOuQ/6C6_PdUFoMRwI2ym8wuCrY7YzbOvRhoar4YY73lKx0gzLbVHKYYg7B2_pIfB9stPBWgBeo5PrxckM365QNKF6ZgbfkU_e3M30NxlftF0tv4/8Z3nOWGmy9FagQJacSdPBf0r_GELfGMDn2mZmrHpzpw",
+        "filename": "echidna.png",
+        "size": 676210,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/_lMmJBbwYpnzs2jR0Ii3aA/IUFMtZycocFSWX_f6KOogVKe2xOVYvi2C88hGQJCususUhrX8oRH1fFw-UyS0jGKjaQAsoK2L_n8KkySXrZ9yA/Pg8UbBd8OHY_JCWNLHVN9A0MdJdpfFL0H40v2zSBQlM",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/MJkKAW8yNoWL6mP9cXaM6Q/2oD2o_E4YXdAaNoZXInskzMUY1JltT4wPcywWAYvTLT-r72XoFobvsX5ehV8hnuIQQjJHQlXYpL5_a5MoV8xow/PyaJvh-Jjk63IKO4Q7pD_61YI-LuJ7ixM7hCjH3BAyg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/2brX_0cZ4_GnVmienKU6Qw/BdvRLDFrjvWhFyw4CDWjhGk4zvmR81NVUr6W3lCg3tOkUYruJXTucwo5twsKzZK5vxrEgQdzEAwVdQKXOZEjqw/H0cmi4d_cHVmSEqnCYiA2M3vo22tLNYNDWAh3yDBCSM",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Short-beaked echidna (Tachyglossus aculeatus)",
+    "DraggableTypesLink": [
+      "rec9QDynXiH8UG8Lj"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "echidna",
+    "imageUrl": "../../assets/images/wallace-sorting/echidna.png",
+    "correctArea": [
+      "east"
+    ],
+    "type": [
+      "monotremes"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/echidna-icon.png"
+  },
+  {
+    "name": "Elephant",
+    "correctAreaLink": [
+      "rec8wzSEDWYGLNrxx"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "atthiFs4ijrGTB5bD",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/IIdCjQmLUCBeFs-to-ON5g/-2MxylfDPtvAwGVQUnsMNT-Onnn8bmXCfV9GxnSqbXvUztrA4b-heXATvAnJ7xyxAMu7hPoRtHYu5ub2i3_08nCXJUP7pFwDNaw-SBkq-ac/sydbySm44l5108Pbe-B3Y6eDs3QC1ErTDrx54mTnFwY",
+        "filename": "elephant.png",
+        "size": 578650,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/c0HoseorAqJBEH7PQptTAw/Js0cmB9LCvZ-Zrjb6QY3Rw1zv4Mnr-ZCuuZ3ftKrX7bhhbLViLEbqZTcSpmVe7t7FyoFGex5i-IA2YflZMEh4g/2_UyPGwv4MpW8eN3HWn0yXlYbkTT1Vdo2ixRAOpgJtw",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/1j3ENqLjP3MskJg1urjVEw/IgiSVK0x46pjl2lZ_R57tQkTHNp3KQ71ANcl_FaNTT92PZV8zjcvJwnyp22RmaUVB7mqqopiZOUMLtTneBPTZg/jAb2HwEZKx_FCEVEeLhmxIWOWB4TsCmxqXlwzzbvmZU",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/tZf0a0D63aeXl7P68PW_Iw/V0SDOu3xL8OBJCSU4TiNJnKAihWFnrw5NJ4NF4W62rDxyUKDjyK3tMhCVokkhqpTG4HAQSNhAJTTWIDiJUauQQ/by-anocc4i-5Cj4GUtRqi4VudE0_y3diw4UF0OuXHPs",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Asian elephant (Elephas maximus)",
+    "DraggableTypesLink": [
+      "recONZAHtxEc9cFFp"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "elephant",
+    "imageUrl": "../../assets/images/wallace-sorting/elephant.png",
+    "correctArea": [
+      "west"
+    ],
+    "type": [
+      "placental"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/elephant-icon.png"
+  },
+  {
+    "name": "Squirrel",
+    "correctAreaLink": [
+      "rec8wzSEDWYGLNrxx"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "attt7TDGqxXaCvFl9",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/RYQIDuEhMh9oEoD0DEm7JQ/doHhD7FPnmGUWOMepx-BAC1spqUhou2nbFoTUKjyvnngEXYcMFa54joq6Yd88CRzxHqDyRPd8C1uxBsURSERLiZMos8B-LeWvqJVK2KHyBk/vF3UgcW-0ZITZDWDGl_cznXCj5BYLPOkSBjtUPY0Qkk",
+        "filename": "squirrel.png",
+        "size": 714965,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/Em1vzsv6svmFmuVmN-vqYw/vdlM6Y4jl9jypIXPltfHVGfhqOMgHIhEHsZ4yP1UpwDB27ArcM_6ENq9923C-YaGA-TpENeViE7tSRlNmxPACQ/HYhVZJKjrsV5cy1FLxDbKrh29Zu29NNeF221rG57QOY",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/z7L1gDA-nzVyc2kqOxZX6g/T7RELVlSC3wf5bIyaKOmVOFiHW6Mj20V2ONh4s4jLDTTGaVKuTdCHt3TF7TgeCy2cpJCQl0t-0-DDPV_49lbrg/c6HaSSIdikPlj2OuPIFQcqbrq0lWVDByl78NZP3klDk",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/RbSmGlEiGyNpQs2I-ThTlA/kT7oH1UoqSDf5vwYYi2f5k38f4InUn123iMd1nMS6cpDXOu3Lkoh86NxiZMQMk5w9iPMFwcxegg69J7plyx85A/mRa-O5DUPJt5sEGFFBvwvbYV8hHxGCaPyTiIjzd6sM0",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Plantain squirrel (Callosciurus notatus)",
+    "DraggableTypesLink": [
+      "recONZAHtxEc9cFFp"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "squirrel",
+    "imageUrl": "../../assets/images/wallace-sorting/squirrel.png",
+    "correctArea": [
+      "west"
+    ],
+    "type": [
+      "placental"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/squirrel-icon.png"
+  },
+  {
+    "name": "Koala",
+    "correctAreaLink": [
+      "recCN8TKfmk3KAOv0"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "attT12zSxVAIwEOTT",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/QyoOTLuVw9446Z78AgR9Nw/wwcgkfNLEpe-EoQ71ojpcFR2xQHGneO8mukx09vhao3Yj6zvepDAS25-Gq-s4UEjqQ2ElQZc99snXsoJczHsTlAhSuqDTLbCfio0OG97Wc4/SjS8tdlRkesf3Lb-_mNlbpFOTD1ms0Em1Dhgm9Svxw0",
+        "filename": "koala.png",
+        "size": 814610,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/bs6T5zWkyS6fk6vl91XMxw/gWEW_QzzGb3QiCg0y9e_zMwhrms4935zX8ziwYaoLc-_9kXpwUvvR-tmyOxPAXs987qqeZ3j01_4m8_JBOZeoA/Ic8g_LuXxEKE4pw4oGYk_mA0WJkcQ3syPO3uqrn1ItI",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/RgXnGAJfHJf6YbJjbS-BOA/dvGSYcFWtlm_uCR7g2iiJ73WCAbXjhbnxGEhkAMPUX5aMXPsMzgX8z7wV4v_5WND6XvxumnuH1xhAKlR4xzuKQ/b26oOXl2lLEj5FMLEw9Q-BfAhpL-4hXC-9yQWy81Lww",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/dGrW-pwo6zjHUlgyBQkf1g/aJlHUXLy8kvXB6rwJe5X0gX8adaVyDTroapkgHkPd2fnpuj6mp4P841NeYCOkUOSpioYD73IGIgD8WiVdl2L1w/pTB2RxDM7u_hRz_qouXa6TJjebamcHSrr11RREHn_Mk",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Koala (Phascolarctos cinereus)",
+    "DraggableTypesLink": [
+      "recr4NQFRwkXeHYpB"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "koala",
+    "imageUrl": "../../assets/images/wallace-sorting/koala.png",
+    "correctArea": [
+      "east"
+    ],
+    "type": [
+      "marsupials"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/koala-icon.png"
+  },
+  {
+    "name": "Pangolin",
+    "correctAreaLink": [
+      "rec8wzSEDWYGLNrxx"
+    ],
+    "screensLink": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "icon": [
+      {
+        "id": "attVqkk2KFKL1LmVS",
+        "width": 800,
+        "height": 800,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/fBJMJlvFzfmnoajKAjANkg/l8GJZy9_QCYAlTmx2qqVx_PqqxKtmDwp0BhWB7quAdn8UrqTnu9KCKRhzvKdUtrN8-DtZzy8z1xrR6vB8tdlS_qMcY3-RDa5_RvTzoFGUnw/QsUyQ3hLZxBgwNuMOf0KeP1PN5d78RcCWuBCGDuzWvU",
+        "filename": "pangolin.png",
+        "size": 179560,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/L0F7WjhQvZJBzGz6oJK7Ag/NRNMmHHhuFLCNt3ahZhx_p8kfDFUsy3nHf2t7HkVCQj2Ke4aZEcAXH4UUnGQpf5bLHyMyEfSIZ8J7M5XdvJFuw/dLKOtXGa2fLbbh4-d5prbqFVxXWAEEsnxS2gnhkAFIE",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/qrSCV8RYkLYIbL5FLFDCig/mqVnrCKipOg9xS27EEPSyhcT84k9uHTv9RsJxHZQj-kyAUZXAEEQKwZkNp-I7QXM1Gy_5hYiax6y-y8ZRnVRSw/-5ZiL7ot6L3mgPHgV1-1b8DU6eZLtb1md9Fx47xRDsA",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/ESLHr4euJFygub3XiZFTow/mDJ8X1aXHLhhUmsP1z_80xnzN24n8wfKdj6UKmUVYsHokcaAdcHHqch0hghf8RdRbON4Enz7foneSIv8Iols7g/FLiswUzQ9GHfowgE8xDkvHZZkEDTQ32Q0iKNYqs-TBo",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "description": "Sunda pangolin (Manis javanica)",
+    "DraggableTypesLink": [
+      "recONZAHtxEc9cFFp"
+    ],
+    "activityLink": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "pangolin",
+    "imageUrl": "../../assets/images/wallace-sorting/pangolin.png",
+    "correctArea": [
+      "west"
+    ],
+    "type": [
+      "placental"
+    ],
+    "activityId": [
+      5
+    ],
+    "iconImageUrl": "../../assets/images/wallace-sorting/pangolin-icon.png"
+  }
+]

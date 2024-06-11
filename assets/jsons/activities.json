@@ -1,0 +1,478 @@
+[
+  {
+    "id": 4,
+    "title": "Sorting Insects",
+    "type": "sorting",
+    "activityUrl": "/activities/sorting/",
+    "introText": "After years of noting the geographies of species, Wallace made a new discovery. He proposed a boundary through Southeast Asia which separated types of fauna on either side. This came to be known as the Wallace Line. Based on his theory, place each species on either side of the Wallace Line.",
+    "completedText": "**Congratulations!**\\\nYou have learnt how a naturalist would classify insects they might encounter. On to the next destination!",
+    "completedImageUrl": "/assets/images/activity3b-completed.png",
+    "Chapters": [
+      "rechbUP589oR5ORmG"
+    ],
+    "completedHeaderText": "COMPLETE",
+    "Assets": [
+      "recIbKGInVo3qQqU8",
+      "recPdJzeh9g2Joodz",
+      "recdUZSmgnIadHA5K",
+      "recatQJvqhnZ7utDO",
+      "recQamGmoi86ksyBg",
+      "recubMHxZKPiYuCAx",
+      "recUdGqKb2cvQgBSP",
+      "reclFKv3lWTPCUSSO",
+      "rec8ofWdSBOIwSBqM",
+      "rec0Q7rDS6IAUwkxS",
+      "recNytcBrM1Mh4VO9",
+      "recBtMMjU9Df31EJT",
+      "recI2G7hk7yOZA5Ol",
+      "rec24Bk6vNTiFY4Rm",
+      "rec34k0ouGFSMwinP",
+      "recKwubpoDz40MXrf",
+      "recKCUvnFNc0acZyR",
+      "rec8h1xVdSEO3ySkb",
+      "recNx0aulgyokjtci",
+      "rec3Ns65vM7f9QQua",
+      "reco7J7rh5tpc3Q5c",
+      "recyVf9OPhN7uOUF2",
+      "recu1l2LdvtHB23UY",
+      "recR0aRxLWH4Ezy0l",
+      "recGjJjCIeAMEOZ2i",
+      "recCwWP02AaoJbQWo",
+      "rec58s4GAqHTWAI8H",
+      "recpccmtf4WaqvzZO",
+      "recWlxulx4ijGDeTq",
+      "rec5tr0GbLaAspVN0"
+    ],
+    "introTextIdList": [
+      "recIbKGInVo3qQqU8",
+      "recPdJzeh9g2Joodz",
+      "recI2G7hk7yOZA5Ol",
+      "rec24Bk6vNTiFY4Rm",
+      "rec34k0ouGFSMwinP",
+      "recKwubpoDz40MXrf"
+    ],
+    "introHeaderTextIdList": [
+      "recdUZSmgnIadHA5K",
+      "recatQJvqhnZ7utDO",
+      "recUdGqKb2cvQgBSP",
+      "reclFKv3lWTPCUSSO",
+      "rec8ofWdSBOIwSBqM",
+      "rec0Q7rDS6IAUwkxS"
+    ],
+    "introImageIdList": [
+      "recubMHxZKPiYuCAx",
+      "recQamGmoi86ksyBg",
+      "recKCUvnFNc0acZyR",
+      "rec8h1xVdSEO3ySkb",
+      "recNytcBrM1Mh4VO9",
+      "recBtMMjU9Df31EJT"
+    ],
+    "bgImageUrlIdList": [
+      "recNx0aulgyokjtci",
+      "rec3Ns65vM7f9QQua",
+      "reco7J7rh5tpc3Q5c",
+      "recyVf9OPhN7uOUF2",
+      "recu1l2LdvtHB23UY",
+      "recR0aRxLWH4Ezy0l",
+      "rec0wnfjYpWUd7HjM",
+      "recUruMXQN2dNwhJN",
+      "recBfw47fVC2L8ha0",
+      "rectpwJP6eqblU6mH",
+      "reciCcrMcnasPK1tN"
+    ],
+    "overlayImageUrlIdList": [
+      "recGjJjCIeAMEOZ2i",
+      "recCwWP02AaoJbQWo",
+      "rec58s4GAqHTWAI8H",
+      "recpccmtf4WaqvzZO",
+      "recWlxulx4ijGDeTq",
+      "rec5tr0GbLaAspVN0"
+    ],
+    "introTextList": [
+      "Learn how to differentiate four orders (groups of similar species in the Linnaean classification system) of common insects.",
+      "Sort the insects you found to their respective orders by dragging them to the correctly labelled specimen display boxes.",
+      "These insects have four large wings covered with tiny scales that result in a variety of wing patterns. They have a curled proboscis at rest.",
+      "Their forewings have hardened into elytra, which protect the body and cover the hindwings. A straight line runs down the abdomen where the elytra meet.",
+      "These insects mimic plants and foliage such as sticks and leaves. Their bodies may be long and cylindrical, or flattened, with long slender legs.",
+      "These insects have elongated membranous wings of similar shape and size. Their thorax and abdomen are long and slender. They have toothed mouthparts."
+    ],
+    "introHeaderTextList": [
+      "Tutorial",
+      "Tutorial",
+      "Lepidoptera",
+      "Coleoptera",
+      "Phasmatodea",
+      "Odonata"
+    ],
+    "introImageUrlList": [
+      "assets/images/chapter3-tutorial-2-1.png",
+      "assets/images/chapter3-tutorial-2-2.png",
+      "assets/images/insect-sorting/tiger.png",
+      "assets/images/insect-sorting/longhorn.png",
+      "assets/images/insect-sorting/stick.png",
+      "assets/images/insect-sorting/flashwing.png"
+    ],
+    "bgImageUrlList": [
+      "assets/images/chapter3-bg.png",
+      "assets/images/chapter3-bg.png",
+      "assets/images/chapter3b-info-bg.png",
+      "assets/images/chapter3b-info-bg.png",
+      "assets/images/chapter3b-info-bg.png",
+      "assets/images/chapter3b-info-bg.png",
+      "assets/images/chapter4-bg.png",
+      "assets/images/chapter4-info-bg.png",
+      "assets/images/chapter4-info-bg.png",
+      "assets/images/chapter4-info-bg.png",
+      "assets/images/chapter4-bg.png"
+    ],
+    "overlayImageUrlList": [
+      "assets/images/green-frame.png",
+      "assets/images/green-frame.png",
+      "assets/images/chapter3b-info-frame.png",
+      "assets/images/chapter3b-info-frame.png",
+      "assets/images/chapter3b-info-frame.png",
+      "assets/images/chapter3b-info-frame.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Obtaining Insects",
+    "type": "finding",
+    "activityUrl": "/activities/finding/",
+    "introText": "Learn to identify the order of the collected insects and sort them to the correct specimen display boxes. ",
+    "completedText": "**Great work!**\\\nYou found them all! Now let’s get these insects sorted for study.",
+    "InsectAreas": [
+      "recBbk4wZO3mDMqmt",
+      "rec7lH2zbnO3bJfC8",
+      "recuogiVOzCRYP2Xk",
+      "recfB7AKjrFtUiJdI"
+    ],
+    "completedImageUrl": "/assets/images/activity3-completed.png",
+    "Chapters": [
+      "rechbUP589oR5ORmG"
+    ],
+    "completedHeaderText": "ALL INSECTS FOUND",
+    "Assets": [
+      "reccT7nYVoxnChM9z",
+      "recYjmg3Yz6JcvBrS",
+      "recTIdzSWSGSBJfWW",
+      "recDDcS9tQnFsqRMb",
+      "rec3Ue3CzaazLhiJY",
+      "rectqqtTq6KEytLWM",
+      "recoR0lYUh30kF5Gu",
+      "recpdaW4gRKe26bJB",
+      "recefIww0xcJjYfRI",
+      "recKL2uHeIpgwWHgV"
+    ],
+    "introTextIdList": [
+      "reccT7nYVoxnChM9z",
+      "recYjmg3Yz6JcvBrS"
+    ],
+    "introHeaderTextIdList": [
+      "recTIdzSWSGSBJfWW",
+      "recDDcS9tQnFsqRMb"
+    ],
+    "introImageIdList": [
+      "rec3Ue3CzaazLhiJY",
+      "rectqqtTq6KEytLWM"
+    ],
+    "bgImageUrlIdList": [
+      "recpdaW4gRKe26bJB",
+      "recoR0lYUh30kF5Gu"
+    ],
+    "overlayImageUrlIdList": [
+      "recefIww0xcJjYfRI",
+      "recKL2uHeIpgwWHgV"
+    ],
+    "introTextList": [
+      "Explore the rainforest landscape by dragging it to look around for four insects hidden in the forest.",
+      "Tap on the highlighted zones to zoom in, and spot insects in their natural habitat. Tap the insect to collect it and learn about them."
+    ],
+    "introHeaderTextList": [
+      "Tutorial",
+      "Tutorial"
+    ],
+    "introImageUrlList": [
+      "assets/images/chapter3-tutorial-1-1.png",
+      "assets/images/chapter3-tutorial-1-2.png"
+    ],
+    "bgImageUrlList": [
+      "assets/images/chapter3-bg.png",
+      "assets/images/chapter3-bg.png"
+    ],
+    "overlayImageUrlList": [
+      "assets/images/green-frame.png",
+      "assets/images/green-frame.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "A New Discovery",
+    "type": "dragging",
+    "activityUrl": "/activities/dragging/",
+    "introText": "After years of noting the geographies of species, Wallace made a new discovery. He proposed a boundary through Southeast Asia which separated types of fauna on either side. This came to be known as the Wallace Line. Based on his theory, place each species on either side of the Wallace Line.",
+    "completedText": "**Congratulations!**\\\nYou have identified which species and types of mammals are native to the west or east of the Wallace Line. On to the next destination!",
+    "DraggableItems": [
+      "recekOIpJTEvqdwfc",
+      "recFO08dSTYd7Ydi9",
+      "rectLnbaHJhAePaw2",
+      "recjpeyXr2RZyeLQf",
+      "recqtId6IZ083n1HD",
+      "rec6oMfgTBe749wJN",
+      "rec8juQU5kowWlKFq",
+      "recaA4IUGAWDj02zL"
+    ],
+    "DraggableAreas": [
+      "rec8wzSEDWYGLNrxx",
+      "recCN8TKfmk3KAOv0"
+    ],
+    "completedImageUrl": "/assets/images/activity4-completed.png",
+    "Chapters": [
+      "recOGpfA5k0bMfFwv"
+    ],
+    "completedHeaderText": "COMPLETE",
+    "Assets": [
+      "recTZlWrpIwbvzEHk",
+      "rec3cF4svH07EFWpL",
+      "recW9A1IItxX7EZpQ",
+      "recomywuiup8UcH1A",
+      "rec3X49M5dlONbihG",
+      "recMBNTry8msBnlHp",
+      "recWbd1ViLcGa28nL",
+      "recvLsJwtsRmWNsLf",
+      "reci42pbdzK1qB6VO",
+      "recpuQiuXkuVvo5XT",
+      "rec6foSZTdIhUdoM2",
+      "recmuC3Afuxh02Dh4",
+      "rec4apvbqqIHOHqrJ",
+      "recaqKGymvUrW8InA",
+      "recwZqNjHPy11UByo",
+      "rec0wnfjYpWUd7HjM",
+      "recUruMXQN2dNwhJN",
+      "recBfw47fVC2L8ha0",
+      "rectpwJP6eqblU6mH",
+      "reciCcrMcnasPK1tN",
+      "recCOaDIrns3FDINj",
+      "recnGj1M7BSIGH53d",
+      "recSNsoqdDNIK51j0",
+      "rece3K1CC50Wq5wAW",
+      "recMylK6rESw0jVUi"
+    ],
+    "introTextIdList": [
+      "rec3cF4svH07EFWpL",
+      "recTZlWrpIwbvzEHk",
+      "recpuQiuXkuVvo5XT",
+      "rec6foSZTdIhUdoM2",
+      "recmuC3Afuxh02Dh4"
+    ],
+    "introHeaderTextIdList": [
+      "recW9A1IItxX7EZpQ",
+      "recomywuiup8UcH1A",
+      "recWbd1ViLcGa28nL",
+      "recvLsJwtsRmWNsLf",
+      "reci42pbdzK1qB6VO"
+    ],
+    "introImageIdList": [
+      "rec3X49M5dlONbihG",
+      "recMBNTry8msBnlHp",
+      "rec4apvbqqIHOHqrJ",
+      "recaqKGymvUrW8InA",
+      "recwZqNjHPy11UByo"
+    ],
+    "bgImageUrlIdList": [
+      "rec0wnfjYpWUd7HjM",
+      "reciCcrMcnasPK1tN",
+      "rectpwJP6eqblU6mH",
+      "recUruMXQN2dNwhJN",
+      "recBfw47fVC2L8ha0"
+    ],
+    "overlayImageUrlIdList": [
+      "recCOaDIrns3FDINj",
+      "recnGj1M7BSIGH53d",
+      "recSNsoqdDNIK51j0",
+      "rece3K1CC50Wq5wAW",
+      "recMylK6rESw0jVUi"
+    ],
+    "introTextList": [
+      "Learn about the three different types of mammals and which side of the Wallace Line they are native to.",
+      "Identify which species are found to the west or east of the Wallace Line by dragging the animal to the correct side of the boundary.",
+      "These mammals give birth to live young, and nourish embryos via a placenta throughout the gestation period: the period of embryo development in the womb.",
+      "Marsupials have a short gestation period. They give birth to young alive, and continue development in a pouch or protective skin fold of the mother.",
+      "Monotremes lay eggs. Instead of teats, mothers secrete milk for their young via pores on their body."
+    ],
+    "introHeaderTextList": [
+      "Tutorial",
+      "Tutorial",
+      "Placental Mammals",
+      "Marsupials",
+      "Monotremes"
+    ],
+    "introImageUrlList": [
+      "assets/images/chapter4-tutorial-1.png",
+      "assets/images/chapter4-tutorial-2.png",
+      "assets/images/chapter4-placental-info.png",
+      "assets/images/chapter4-marsupials-info.png",
+      "assets/images/chapter4-monotremes-info.png"
+    ],
+    "bgImageUrlList": [
+      "assets/images/chapter4-bg.png",
+      "assets/images/chapter4-bg.png",
+      "assets/images/chapter4-info-bg.png",
+      "assets/images/chapter4-info-bg.png",
+      "assets/images/chapter4-info-bg.png"
+    ],
+    "overlayImageUrlList": [
+      "assets/images/green-frame.png",
+      "assets/images/green-frame.png",
+      "assets/images/chapter4-info-frame.png",
+      "assets/images/chapter4-info-frame.png",
+      "assets/images/chapter4-info-frame.png"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Packing for an Expedition",
+    "type": "packing",
+    "activityUrl": "/activities/snapping/",
+    "introText": "What do early naturalists bring on an expedition to the tropics? Learn the tools of the trade and help to pack them all into this luggage bag.",
+    "completedText": "**Congratulations!**\\\nYou have packed what an early naturalist might prepare for an expedition to the tropics. On to the next destination!",
+    "SnappableItems": [
+      "recRZIBB1xrszG8gL",
+      "recTwmnwpSnRCd7TV",
+      "recwDrByoVYAezjmO",
+      "rec81YxKLnFOksuR6",
+      "recmrLJD4m8ahFHiN",
+      "recreCvRO5qX7K8Ub",
+      "receZe0xUg4EvRWw8"
+    ],
+    "completedImageUrl": "/assets/images/activity1-completed.png",
+    "Chapters": [
+      "rec062bcNUQNQX23I"
+    ],
+    "completedHeaderText": "COMPLETE",
+    "Assets": [
+      "recUf3VvocVuL8slb",
+      "recxMovwC7MEcQqex",
+      "rec52FNm2RVHp0m0n",
+      "recqBj3VFeK1xOMu0",
+      "recvY6rpUmepp2naJ",
+      "recRyL9DuIAKRd23J",
+      "rectqv0fLRJlGfmga",
+      "recLF8cbOEe9os35k",
+      "rec3ECsqz0EYC0BsO",
+      "recZV5ygd6OEuDBIZ"
+    ],
+    "introTextIdList": [
+      "recUf3VvocVuL8slb",
+      "recxMovwC7MEcQqex"
+    ],
+    "introHeaderTextIdList": [
+      "rec52FNm2RVHp0m0n",
+      "recqBj3VFeK1xOMu0"
+    ],
+    "introImageIdList": [
+      "recvY6rpUmepp2naJ",
+      "recRyL9DuIAKRd23J"
+    ],
+    "bgImageUrlIdList": [
+      "rectqv0fLRJlGfmga",
+      "recLF8cbOEe9os35k"
+    ],
+    "overlayImageUrlIdList": [
+      "rec3ECsqz0EYC0BsO",
+      "recZV5ygd6OEuDBIZ"
+    ],
+    "introTextList": [
+      "Learn about the items a naturalist from the 1800s would bring to collect and preserve specimens from Singapore's forests.",
+      "Next, drag and arrange all the items to fit into the open luggage trunk."
+    ],
+    "introHeaderTextList": [
+      "Tutorial",
+      "Tutorial"
+    ],
+    "introImageUrlList": [
+      "assets/images/chapter1-tutorial-1.png",
+      "assets/images/chapter1-tutorial-2.png"
+    ],
+    "bgImageUrlList": [
+      "assets/images/chapter1-bg.png",
+      "assets/images/chapter1-bg.png"
+    ],
+    "overlayImageUrlList": [
+      "assets/images/green-frame.png",
+      "assets/images/green-frame.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Into the City",
+    "type": "quiz",
+    "activityUrl": "/quiz",
+    "introText": "British naturalist Alfred Russel Wallace spent a lot of time in Singapore in the 1800s, collecting specimens and crafting scientific theories based on his observations. Watch the video to learn more about Wallace’s contributions to natural science and answer the following questions. ",
+    "completedText": "**Congratulations!**\\\nYou have learnt more about Singapore during Wallace’s time in the 1800s. On to the next destination!",
+    "QuizItems": [
+      "recEEbXugk864cyvQ",
+      "recqS1BC42Fuv5g7h",
+      "recVHF5IwyloIDBIX",
+      "rec7tw0AZCXdhoskK",
+      "recEOHIOZZrzMHm6s"
+    ],
+    "completedImageUrl": "/assets/images/activity2-completed.png",
+    "Chapters": [
+      "rece6CKnYPkqsHTb8"
+    ],
+    "completedHeaderText": "COMPLETE",
+    "Assets": [
+      "recDD5TN6tyA5Yu5x",
+      "reccaTaRdHrbu3q6T",
+      "recEKlEsv0YkZm7oB",
+      "recRz29XR6y7oKkML",
+      "recia6EwD9rELVY8k",
+      "recWjRglQc02iF8qj",
+      "rec7cqYUwDN5raLjo",
+      "recmX8LVNQFc3FGkB",
+      "recZFolKLSUWa9eBi",
+      "recuT6PxueMCrcGLB"
+    ],
+    "introTextIdList": [
+      "recDD5TN6tyA5Yu5x",
+      "reccaTaRdHrbu3q6T"
+    ],
+    "introHeaderTextIdList": [
+      "recEKlEsv0YkZm7oB",
+      "recRz29XR6y7oKkML"
+    ],
+    "introImageIdList": [
+      "recia6EwD9rELVY8k",
+      "recWjRglQc02iF8qj"
+    ],
+    "bgImageUrlIdList": [
+      "recmX8LVNQFc3FGkB",
+      "rec7cqYUwDN5raLjo"
+    ],
+    "overlayImageUrlIdList": [
+      "recZFolKLSUWa9eBi",
+      "recuT6PxueMCrcGLB"
+    ],
+    "introTextList": [
+      "Watch the video in the gallery to learn more about Wallace’s time in Singapore. Pay attention to the way of life back then.",
+      "Answer five multiple-choice questions. Get most of them correct to earn the stamp for this chapter."
+    ],
+    "introHeaderTextList": [
+      "Tutorial",
+      "Tutorial"
+    ],
+    "introImageUrlList": [
+      "assets/images/chapter2-tutorial-1.png",
+      "assets/images/chapter2-tutorial-2.png"
+    ],
+    "bgImageUrlList": [
+      "assets/images/chapter2-bg.png",
+      "assets/images/chapter2-bg.png"
+    ],
+    "overlayImageUrlList": [
+      "assets/images/brown-frame.png",
+      "assets/images/brown-frame.png"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "key": "monotremes",
+    "type": "Monotremes",
+    "description": "Monotremes lay eggs. Instead of teats, mothers secrete milk for their young via pores on their body.",
+    "DraggableAreas_link": [
+      "recCN8TKfmk3KAOv0"
+    ],
+    "DraggableItems": [
+      "rec8juQU5kowWlKFq",
+      "recaA4IUGAWDj02zL"
+    ],
+    "id": 3,
+    "areas": [
+      "east"
+    ],
+    "draggableKeys": [
+      "platypus",
+      "echidna"
+    ]
+  },
+  {
+    "key": "placental",
+    "type": "Placental Mammals",
+    "description": "These mammals give birth to live young, and nourish embryos via a placenta throughout the gestation period: the period of embryo development in the womb.",
+    "DraggableAreas_link": [
+      "rec8wzSEDWYGLNrxx"
+    ],
+    "DraggableItems": [
+      "recekOIpJTEvqdwfc",
+      "recFO08dSTYd7Ydi9",
+      "rectLnbaHJhAePaw2",
+      "recjpeyXr2RZyeLQf"
+    ],
+    "id": 1,
+    "areas": [
+      "west"
+    ],
+    "draggableKeys": [
+      "elephant",
+      "tiger",
+      "pangolin",
+      "squirrel"
+    ]
+  },
+  {
+    "key": "marsupials",
+    "type": "Marsupials",
+    "description": "Marsupials have a short gestation period. They give birth to young alive, and continue development in a pouch or protective skin fold of the mother.",
+    "DraggableAreas_link": [
+      "recCN8TKfmk3KAOv0"
+    ],
+    "DraggableItems": [
+      "recqtId6IZ083n1HD",
+      "rec6oMfgTBe749wJN"
+    ],
+    "id": 2,
+    "areas": [
+      "east"
+    ],
+    "draggableKeys": [
+      "koala",
+      "wombat"
+    ]
+  }
+]

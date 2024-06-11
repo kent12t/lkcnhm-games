@@ -1,0 +1,114 @@
+[
+  {
+    "name": "west",
+    "description": "MOVED TO DRAGGABLETYPES",
+    "icon": [
+      {
+        "id": "attbkXRQCfdsvfgEg",
+        "width": 198,
+        "height": 532,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/7Eb8dWENkvw5rko_cGW7UA/VmsR8YsXyO4S6buESJdfTbFFPeX6px28xLyml_8BUJT3u7e9by3_C2uhrBl3WXj4rbhSOHwZOzR_4kGvTWi0-A/q2iU1OaXIMT-BBit24LwGb_U5zxiIEaPdUB5E_1hpOQ",
+        "filename": "west.png",
+        "size": 11932,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/xYdYl7jkOVnH4Tmyw60_ZA/twieA8-4zdMZxKZpEqiDyAsVSe3Q4MoueGG13Vz5Ur4qN34vSisYWby5XUibEG57TkrBKqH4x-lK488nXAJjVA/x_1h-8QpowVEwZPpE2iNnzn3RKdnlVfRV96igwA09mM",
+            "width": 13,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/WyxqgIJhSyyKw5m6HKsg2w/y4Cn4Pam8akvD-VDGOI6Gq_DmxV9vH-zUPLELTX2BrBWKbaJhpCmbdgkdYqegvM2Y8z1qceFJxvGQl1sKg5bdg/42wktV3JUxzhyk2SEtbetDW4m_S3iiu4UTkUsv8yFzs",
+            "width": 198,
+            "height": 532
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/vACY517mrRRrg-nfYIWekA/Ux_F4qR54V8nKEvRmM6iu2CriRqZrjENGq_cWYpyelTv6g-RI4EdPc3g4eRFcFuAWyLildwOSItZsiUCD5jYAw/0_yC8W0gcO-_KVFIvgMFDeWPPB7mzETqjr1jeqsAXcA",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "DraggableItems": [
+      "recekOIpJTEvqdwfc",
+      "recFO08dSTYd7Ydi9",
+      "rectLnbaHJhAePaw2",
+      "recjpeyXr2RZyeLQf"
+    ],
+    "Screens": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "types_link": [
+      "recONZAHtxEc9cFFp"
+    ],
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "west",
+    "imageUrl": "../../assets/images/wallace-sorting/west.png",
+    "types": [
+      "placental"
+    ],
+    "activityId": [
+      5
+    ]
+  },
+  {
+    "name": "east",
+    "description": "MOVED TO DRAGGABLETYPES",
+    "icon": [
+      {
+        "id": "attWPsPoXdazF0qG2",
+        "width": 195,
+        "height": 532,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/jbeMyDT9vSUUPVpeUvt8FQ/VebC41hLKQK7ftto3qbZn72y6WUf5jcDXDvfVhgamsmR2pp9F7gZamfw4n3eP4om5MPNzS1NJKMZhg2hLtJraw/iki868MkT2E8vjzUZo-5vyRZp733lECTRof5g1luizs",
+        "filename": "east.png",
+        "size": 13222,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/Yj8-pUMgzKCOfT8rzhv-Zg/Bk2_95xVBGHKuHSLP4ls_LD7gVeKhE0UNwj4M3RD-La8bBZ-6hPssxKZFUdydm7ymmatYU3eqqdaSaAA0eBwTw/8vxsFEzyCux2HA2hFityznTU58M2I3sUFvwGKcAYfuk",
+            "width": 13,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/HTS1t7c59bpQd4qBQtezrA/J2UYqhqFLDwpMzfAJpiVVMHyPsQCpXbXUsIjkn--rAa5DWxupLmd_aivtXWb00Xm9iOmG0M1axpEkRc95fb1NA/75ja7D7mF-kKyh5fwfTIdnstYDQdAv1X04XvAxKnNvA",
+            "width": 195,
+            "height": 532
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/Br25nYCdUzwWQJBZkJ5gYw/g2mnefXRTtc4xUFV1JoeYGVdG1OQh_qZmdRRmyEUSEXrGdMs_NmLpnUes9lncaapGv8WD2k-IzbDyWhdXz9VIQ/5_7q82FN5qffOrOrrGUovH0RzZ7-n_N0DXYNpvRQfSU",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "DraggableItems": [
+      "recqtId6IZ083n1HD",
+      "rec6oMfgTBe749wJN",
+      "rec8juQU5kowWlKFq",
+      "recaA4IUGAWDj02zL"
+    ],
+    "Screens": [
+      "recaUJtTPeOb2azsj"
+    ],
+    "types_link": [
+      "recr4NQFRwkXeHYpB",
+      "rec9QDynXiH8UG8Lj"
+    ],
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "id": "east",
+    "imageUrl": "../../assets/images/wallace-sorting/east.png",
+    "types": [
+      "marsupials",
+      "monotremes"
+    ],
+    "activityId": [
+      5
+    ]
+  }
+]

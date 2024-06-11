@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "title": "Packing for an Expedition",
+    "introTextIdList": [
+      "recmUfOKF3hLyRCT2",
+      "recNi4aQYKI7EDsMO"
+    ],
+    "status": "unlocked",
+    "bgImageUrl": "assets/images/chapter1-bg.png",
+    "bgColorValue": "#1E3E39",
+    "introImageUrl": "assets/images/chapter1-icon.png",
+    "Activities": [
+      "recR5yEym0mB9Vgjq"
+    ],
+    "completeText": "Congratulations! You have packed the items of what an early naturalist would bring for an expedition. On to the next destination!",
+    "completeImageUrl": "assets/images/activity1-completed.png",
+    "completeBgImageUrl": "assets/images/chapter1-complete-bg.png",
+    "introHeaderIdList": [
+      "recvPdifoFEmkJqwJ",
+      "reckLF5keoZjL3wOh"
+    ],
+    "introImageIdList": [
+      "recffApCYgibAnFB3",
+      "recuBF4uPbC2Pkhdq"
+    ],
+    "introOverlayColor": "#00140A",
+    "completeOverlayColor": "#471E00",
+    "completeMenuIconUrl": "assets/images/chapter1-menu-complete.png",
+    "menuBgImageUrl": "assets/images/chapter1-menu-bg.png",
+    "introTextList": [
+      "Naturalists travelled widely to document the amazing biodiversity that call Earth home. They brought equipment to collect and preserve specimens they found.",
+      "What do you think an early naturalist from the 1800s might pack on an expedition to Singapore?"
+    ],
+    "activityId": [
+      1
+    ],
+    "introHeaderList": [
+      "Packing for an Expedition",
+      "Packing for an Expedition"
+    ],
+    "tutorialImageList": [
+      "assets/images/chapter1-icon.png",
+      "assets/images/chapter1-icon.png"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "A New Discovery",
+    "introTextIdList": [
+      "recZLL9I29Qme3Nua",
+      "rec3cF4svH07EFWpL"
+    ],
+    "status": "unlocked",
+    "bgImageUrl": "assets/images/chapter4-bg.png",
+    "bgColorValue": "#C5946C",
+    "introImageUrl": "assets/images/chapter4-icon.png",
+    "Activities": [
+      "recQ704tuo6YJRYpC"
+    ],
+    "completeText": "Congratulations for finishing the activity!",
+    "completeImageUrl": "assets/images/activity4-completed.png",
+    "completeBgImageUrl": "assets/images/chapter4-complete-bg.png",
+    "introHeaderIdList": [
+      "recwAnV42QDp3OUh8",
+      "recz9YnF8HCWSYUup"
+    ],
+    "introImageIdList": [
+      "reccK2vMkn9iuEs09",
+      "recZvzPeupn4HzJ29"
+    ],
+    "introOverlayColor": "#00140A",
+    "completeOverlayColor": "#471E00",
+    "completeMenuIconUrl": "assets/images/chapter4-menu-complete.png",
+    "menuBgImageUrl": "assets/images/chapter4-menu-bg.png",
+    "introTextList": [
+      "Naturalist Alfred Russel Wallace spent years mapping the distributions of species across the Malay Archipelago.",
+      "He proposed a boundary separating where certain mammals can be found. Where is this boundary, and how do the mammals on either side differ?"
+    ],
+    "activityId": [
+      5
+    ],
+    "introHeaderList": [
+      "A New Discovery",
+      "A New Discovery"
+    ],
+    "tutorialImageList": [
+      "assets/images/chapter4-icon.png",
+      "assets/images/chapter4-icon.png"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Into the City",
+    "introTextIdList": [
+      "recPDO7ChDmkR225L",
+      "rec17jY1s5txjIiq2"
+    ],
+    "status": "unlocked",
+    "bgImageUrl": "assets/images/chapter2-bg.png",
+    "bgColorValue": "#849978",
+    "introImageUrl": "assets/images/chapter2-icon.png",
+    "Activities": [
+      "recYxAaQE87dZT55d"
+    ],
+    "completeText": "Congratulations! You have learnt more about Singapore during Wallace’s time in the 1800s. On to the next destination!",
+    "completeImageUrl": "assets/images/activity2-completed.png",
+    "completeBgImageUrl": "assets/images/chapter2-complete-bg.png",
+    "introHeaderIdList": [
+      "recFvE8r2AgruadQy",
+      "reczayrxFDkegYLHK"
+    ],
+    "introImageIdList": [
+      "recnnO5rp99LyjueB",
+      "reclmPBs003xt3nzT"
+    ],
+    "introOverlayColor": "#471E00",
+    "completeOverlayColor": "#471E00",
+    "completeMenuIconUrl": "assets/images/chapter2-menu-complete.png",
+    "menuBgImageUrl": "assets/images/chapter2-menu-bg.png",
+    "introTextList": [
+      "British naturalist Alfred Russel Wallace journeyed through the Malay Archipelago to study its wildlife in the 1800s.",
+      "He visited Singapore frequently and recorded his time in his journals. How much do you think Singapore has changed since Wallace's time?"
+    ],
+    "activityId": [
+      2
+    ],
+    "introHeaderList": [
+      "Into the City",
+      "Into the City"
+    ],
+    "tutorialImageList": [
+      "assets/images/chapter2-icon.png",
+      "assets/images/chapter2-icon.png"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Obtaining Specimens",
+    "introTextIdList": [
+      "recJC0aNcDES2HhOK",
+      "recZ5dKlPqxoMURXH"
+    ],
+    "status": "unlocked",
+    "bgImageUrl": "assets/images/chapter3-bg.png",
+    "bgColorValue": "#C9D2B0",
+    "introImageUrl": "assets/images/chapter3-icon.png",
+    "Activities": [
+      "recLBwRIJbFkf8MXE",
+      "recESKmangzLiDMLy"
+    ],
+    "completeText": "Congratulations! You have learnt how a naturalist would classify insects they might encounter. On to the next destination! ",
+    "completeImageUrl": "assets/images/activity3-completed.png",
+    "completeBgImageUrl": "assets/images/chapter3-complete-bg.png",
+    "introHeaderIdList": [
+      "recfwT0QFpE6dWYZz",
+      "reccdB3VteakqcRzf"
+    ],
+    "introImageIdList": [
+      "recitHw94pmTtgHba",
+      "recUGG2wMhlXV9Wnh"
+    ],
+    "introOverlayColor": "#00140A",
+    "completeOverlayColor": "#471E00",
+    "completeMenuIconUrl": "assets/images/chapter3-menu-complete.png",
+    "menuBgImageUrl": "assets/images/chapter3-menu-bg.png",
+    "introTextList": [
+      "Tropical rainforests are extremely diverse habitats. They have complex forest structures that support an abundance of species, especially insects.",
+      "What interesting insects might a naturalist encounter, collect, and preserve in Singapore's rainforests?"
+    ],
+    "activityId": [
+      3,
+      4
+    ],
+    "introHeaderList": [
+      "Obtaining Specimens",
+      "Obtaining Specimens"
+    ],
+    "tutorialImageList": [
+      "assets/images/chapter3-icon.png",
+      "assets/images/chapter3-icon.png"
+    ]
+  }
+]

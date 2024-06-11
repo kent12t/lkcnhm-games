@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Leaf Insect",
+    "correctArea_link": [
+      "recuogiVOzCRYP2Xk"
+    ],
+    "image": [
+      {
+        "id": "attHSEUbupNVO92XB",
+        "width": 1414,
+        "height": 739,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/gMBv_jhJ6lnao81yX1WPkw/I3lW2sWWKZKEFqUUl9YQo4XuJSeQ0wQ6WSMFIk4NTZe82AUhpKMQnJ17TuX11ApScKfXCHIQH7GyjTBEOKKUAg/jGFYbHnoY-LJe_sw_16QtQ5iMunsleAfy8M-UCUH1u4",
+        "filename": "leaf.png",
+        "size": 766390,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/gQoxY9aTWil1IsE5WTyBgA/EOBUqUaPQfeXHRLp1FtWpVx56Bviu9cNmOldjcNqSlXEpYDbRZhi_UMIfusi77Ve7YU9l2C6eYgzJ4rPmzm8XQ/BCBsVcsOwfqr-blznEmin5bgkbI9Ryu2xM-EseHx5Eo",
+            "width": 69,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/QvlMAr9QYPl6h2hwVV2YDQ/65tFXRvqT_buXY-N1fqUqTCGOPBzvflpXxeUOHwF2ClI9dl1em1WNbItlpD9GXTm2J036gbA4zkfEY9gMJWzKg/k2NDkVMRbfAnNP8an5-8JVSa0DN9_KqU2LVeRovIdh0",
+            "width": 980,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/rgVRIORSbqL9k9JUHhELaw/A-lOe_5UQumpqdMUPGBgEQrGVx6mDFBgOzaGxbi6rEFu8zD-6PPx_d6WEX-boGt7hA6GKd11cXedvnY6LOO7SA/L3C304q5hnS0Kl0olhFbS-4nUAaSLNbDEg0n1bJH704",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "latinName": "Phyllium (Pulchriphyllium) bioculatum",
+    "text1": "I stay hidden through…",
+    "text2": "Camouflage",
+    "text3": "This insect resembles a leaf very well, evading detection by hiding amongst the foliage. They stay motionless or lightly sway when the wind blows.",
+    "text4": "On leaves",
+    "Screens": [
+      "recYy3TDckZBhdWww"
+    ],
+    "x": -0.75,
+    "y": 0.55,
+    "hiding": "{\"x\":0.5,\"y\":0.4,\"width\":1,\"height\":0.7}",
+    "popupImageUrl": "../../assets/images/insect-sorting/leaf.png",
+    "id": "leaf",
+    "imageUrl": "../../assets/images/insect-sorting/leaf.png",
+    "correctArea": [
+      "phasmatodea"
+    ],
+    "iconUrl": "../../assets/images/insect-sorting/leaf-icon.png",
+    "bgImageUrl": "../../assets/images/insect-sorting/finding-leaf-bg.png",
+    "iconFoundUrl": "../../assets/images/insect-sorting/leaf-icon-found.png",
+    "hintUrl": "../../assets/images/insect-sorting/leaf-hint.png",
+    "hintFoundUrl": "../../assets/images/insect-sorting/leaf-hint-found.png",
+    "illustrationUrl": "../../assets/images/insect-sorting/leaf-illustration.png"
+  },
+  {
+    "name": "Atlas Beetle",
+    "correctArea_link": [
+      "rec7lH2zbnO3bJfC8"
+    ],
+    "image": [
+      {
+        "id": "attZseVcXoQdOdII2",
+        "width": 1117,
+        "height": 500,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/AkrHrvZb_g8KChWRLQJiZw/rjdCf1ixQrXhMFlW8zIXDbAMv1qi2_37hYOT-XhNAeI9xEuZ_uF-N0N4T5PSEf7q81ZhJezz_C4l0ddmT3oD3HntHZfRVIXxeIWBPREF1bc/kjjN5IdNd9M44oG7ncLnu25ET089Vn2WOU8HEpAKqUI",
+        "filename": "atlas.png",
+        "size": 807794,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/KtGA7d4ByyT6qrDHl5ZMGg/JYobtthhemfutUo2JvxWUt5j3g14m5F6gdYKer4h8sVGkWiess4NVz-DUHten9EqztIMTHh_pkFg7Cc35LXAOA/Ld60rXL_9DAswpCMq-Ct1fSN3UnyHB00hvPWBMKNva8",
+            "width": 80,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/V9yIM2zmSMuBsmdXtjuscQ/sxS2phH2a_nevS4fEu8G7NhapwabauysRe0Yei0fwScqcrTLXp6IzFSWHNShUUH8n3kQ4wCWOkWF3ME1hYDLFg/GT3DryyDvtO8MWxZfBORhcqODuT-oYQKIccociHA-Aw",
+            "width": 1117,
+            "height": 500
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/6VRtk2AkkLaaWqLL0h05Pg/NLpKol3Wxyw3l-3unaWs2Yx6PXVaai00TxQuSe6uWrQ1qTXtZO0PKZSsa90RlA2f_Ks1sPTr6HL4BTQph2F0SQ/n_l-_xZiUPdefo3mUj1im3KFLbsv64tn1RJlyIX1fOM",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "latinName": "Chalcosoma atlas",
+    "text1": "I use my horns for…",
+    "text2": "Sexual Selection",
+    "text3": "This insect often fights with other males – the larger its horns, the more victorious it is, and the more attractive it is to potential mates.",
+    "text4": "On tree bark / branch OR Feeding on fallen fruit",
+    "Screens": [
+      "recYy3TDckZBhdWww"
+    ],
+    "x": -0.05,
+    "y": 0.2,
+    "hiding": "{\"x\":0.5,\"y\":0.4,\"width\":1,\"height\":0.7}",
+    "popupImageUrl": "../../assets/images/insect-sorting/atlas.png",
+    "id": "atlas",
+    "imageUrl": "../../assets/images/insect-sorting/atlas.png",
+    "correctArea": [
+      "coleoptera"
+    ],
+    "iconUrl": "../../assets/images/insect-sorting/atlas-icon.png",
+    "bgImageUrl": "../../assets/images/insect-sorting/finding-atlas-bg.png",
+    "iconFoundUrl": "../../assets/images/insect-sorting/atlas-icon-found.png",
+    "hintUrl": "../../assets/images/insect-sorting/atlas-hint.png",
+    "hintFoundUrl": "../../assets/images/insect-sorting/atlas-hint-found.png",
+    "illustrationUrl": "../../assets/images/insect-sorting/atlas-illustration.png"
+  },
+  {
+    "name": "Archduke Butterfly",
+    "correctArea_link": [
+      "recBbk4wZO3mDMqmt"
+    ],
+    "image": [
+      {
+        "id": "attGNLQlH7GcXDhEP",
+        "width": 876,
+        "height": 700,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/5-UM3CGorhsLbbRvWdxhDQ/sPQwD4NfjmDlPwbWzlFO_DAX_xFN-lqon4WPrJ8lIUfqWIdc0adKHGiiZjmT2B7n5ENsmefhcsInwdflUnTVTkEwNODfayLMgVYxGr4KX5k/YBksPz73E9snENGfbQrXG0-aeNmjUxhEkymZzrQ3UlY",
+        "filename": "archduke.png",
+        "size": 745868,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/d0dGACkC107wJeRhtp5Q0w/ccQ6ItzD7d0Af60k44l14EeCNXQxLzchzyObpB9HU9ZtQ9_tbsAUQ5WklLJ5uPvO7fZtIRy4mYc_V27kbboPqg/-IJGNvHQAXVZhjc6shJKGUPiQumxeHEBqsg8eSjvuTM",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/IUorBXjIXHI3gA6XFY0T_A/f90nUM0Yro5CktLplU0yyGe1aBkzdY-gl5aLXLfOYkHdZy6KKg1SyK2xQA_Hr_SAQNc6zJMV186Dh7pHucq_lQ/WFYFigNHElUFoiVYyK9YTHr7KwEe_TZ-Ljztj_bY0Bk",
+            "width": 641,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/h0LuF8SAU088szhyecloTQ/GRbkpWctdBDdM2GJ8MFzy1habHGzV7KfNreYWyS_v_SKtUtaQoQGW_hUcWDegEoYb0iTc29malEBzeAqqDqoVw/uYMgR9Oji4JYtlIRWZx2r5_WbcvnA5Qrw0eVyOMgUPM",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "latinName": "Lexias pardalis dirteana",
+    "text1": "We look different because of...",
+    "text2": "Sexual Dimorphism",
+    "text3": "These insects may look different, but they are the male and female individuals of the same species. These appearances can affect reproductive success.",
+    "text4": "Puddling on sand bank by forest stream OR Flying around/Visiting flowers",
+    "Screens": [
+      "recYy3TDckZBhdWww"
+    ],
+    "x": 1,
+    "y": 0.35,
+    "hiding": "{\"x\":0.5,\"y\":0.4,\"width\":1,\"height\":0.7}",
+    "popupImageUrl": "../../assets/images/insect-sorting/archduke-2.png",
+    "id": "archduke",
+    "imageUrl": "../../assets/images/insect-sorting/archduke.png",
+    "correctArea": [
+      "lepidoptera"
+    ],
+    "iconUrl": "../../assets/images/insect-sorting/archduke-icon.png",
+    "bgImageUrl": "../../assets/images/insect-sorting/finding-archduke-bg.png",
+    "iconFoundUrl": "../../assets/images/insect-sorting/archduke-icon-found.png",
+    "hintUrl": "../../assets/images/insect-sorting/archduke-hint.png",
+    "hintFoundUrl": "../../assets/images/insect-sorting/archduke-hint-found.png",
+    "illustrationUrl": "../../assets/images/insect-sorting/archduke-illustration.png"
+  },
+  {
+    "name": "Yellow-Barred Flutterer",
+    "correctArea_link": [
+      "recfB7AKjrFtUiJdI"
+    ],
+    "image": [
+      {
+        "id": "att6hMw4YtsRPPhAI",
+        "width": 1000,
+        "height": 616,
+        "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/NMK6jPo2Wy4OqR5NdF_r4A/QSHwX_WkPXDzr126uYNw1oXvhlph5MDNkcJvr8YJmUZ5zJkF0CuzzFlZn02enSzLY8vjxizXfhrZd0TDhySDfPe4NV1mIrJK_tyaKANMjzg/aMbbJ62nQowkgPJkK2RtjeZz-gbtbnmzoC2VQN29Og0",
+        "filename": "yellow-barred.png",
+        "size": 630496,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/HDoTe2L3CkqzSHsI_b9B2g/Xbp0vIl0ioTJBNMAevXN0fMD7_efoWFEQHmYr6OqUyudWHb8Pwy0E-XV0JPpTUJ4hUdJPhATm_YJ0lgVlvBaxw/dkPjd9YCFJarM42waJoS_ffjEVoPD5vUd6JbVXqzdmc",
+            "width": 58,
+            "height": 36
+          },
+          "large": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/NoFlZiEOjFidPwII3KvDRw/5qcpviQiqC7x3iY5780KINu8xKL3ePFgiQ9W8IjCEPrpWKv43eJ0bfh-l90HM_pDPugmg1uDn89DulDWspNJCQ/YGP5XNdyyaJYzb36Ql6YrLl-eo7mKG-Fw8BZRDOrgDc",
+            "width": 831,
+            "height": 512
+          },
+          "full": {
+            "url": "https://v5.airtableusercontent.com/v1/15/15/1681106400000/4dWmHMEUchjPk-7RwJzVqA/liy_G6zIPyQM60xy0Y7E9kpxZBOstUO3_emkvtChB-EM4oIWbjo_aa-Uj79fGlVoOE510b2kzYpvMcA1RMUHaQ/WWvoLfhoVRxfloUPuSyHzl_1y8psUX2WeYeswabzw-4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "latinName": "Rhyothemis phyllis",
+    "text1": "I deceive others with my…",
+    "text2": "Batesian Mimicry",
+    "text3": "This insect resembles a bee or wasp with its yellow and black bands. This could trick and scare away potential predators from attacking it.",
+    "text4": "Flying over a water body (pond or forest stream)",
+    "Screens": [
+      "recYy3TDckZBhdWww"
+    ],
+    "x": 1.8,
+    "y": 0.75,
+    "hiding": "{\"x\":0.5,\"y\":0.4,\"width\":1,\"height\":0.7}",
+    "popupImageUrl": "../../assets/images/insect-sorting/yellow-barred.png",
+    "id": "yellow-barred",
+    "imageUrl": "../../assets/images/insect-sorting/yellow-barred.png",
+    "correctArea": [
+      "odonata"
+    ],
+    "iconUrl": "../../assets/images/insect-sorting/yellow-barred-icon.png",
+    "bgImageUrl": "../../assets/images/insect-sorting/finding-yellow-barred-bg.png",
+    "iconFoundUrl": "../../assets/images/insect-sorting/yellow-barred-icon-found.png",
+    "hintUrl": "../../assets/images/insect-sorting/yellow-barred-hint.png",
+    "hintFoundUrl": "../../assets/images/insect-sorting/yellow-barred-hint-found.png",
+    "illustrationUrl": "../../assets/images/insect-sorting/yellow-barred-illustration.png"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "In the footsteps of a naturalist*",
+    "introTextIdList": [
+      "rec390a3xYrCROh8x",
+      "recwtvhOWSG0bpMLq",
+      "recmfgIS2TNHQnMkw"
+    ],
+    "introBgImageUrl": "assets/images/exhibition-intro-bg.png",
+    "logoImageUrl": "assets/images/exhibition-logo.png",
+    "date": "2023-04-18",
+    "mapUrl": "assets/images/exhibition-map.png",
+    "bgImageUrl": "assets/images/exhibition-bg.png",
+    "logoLightImageUrl": "assets/images/exhibition-logo-light.png",
+    "completeBgImageUrl": "assets/images/game-completion.png",
+    "completeImageUrl": "assets/images/game-completion-stamps.png",
+    "completeText": "You have collected all the stamps from the activities! Now that you’ve followed In the Footsteps of a Naturalist*, you can learn even more about our rich biodiversity and what we can do to conserve them.",
+    "completeOverlayColor": "#ffffff",
+    "headerText": "Congratulations",
+    "subHeaderText": "on your completion!",
+    "introTextList": [
+      "Together with _Lee Kong Chian Natural History Museum_ and _Musee*_, start your journey and immerse in an interactive learning experience.",
+      "Step into the past, and follow _In the Footsteps of a Naturalist*_ to explore Singapore, its rainforests, and rich biodiversity in the 1800s.",
+      "Find all _four_ checkpoints in the Heritage Gallery and unlock activities that will challenge you to think, act, and feel like a naturalist."
+    ],
+    "lastUpdated": "2023-04-03T08:59:56.000Z"
+  }
+]

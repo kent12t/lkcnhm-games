@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Sand",
+    "PrimaryColor": "#C3BFB8"
+  },
+  {
+    "Name": "Sage",
+    "PrimaryColor": "#849978"
+  },
+  {
+    "Name": "Correct",
+    "PrimaryColor": "#4B7A2C"
+  },
+  {
+    "Name": "Forest",
+    "PrimaryColor": "#1E3E39"
+  },
+  {
+    "Name": "Honey",
+    "PrimaryColor": "#C5946C"
+  },
+  {
+    "Name": "White",
+    "PrimaryColor": "#F9F5F3"
+  },
+  {
+    "Name": "Wrong",
+    "PrimaryColor": "#883535"
+  },
+  {
+    "Name": "Khaki",
+    "PrimaryColor": "#D7C2AB"
+  },
+  {
+    "Name": "LightGreen",
+    "PrimaryColor": "#C9D2B0"
+  },
+  {
+    "Name": "Black",
+    "PrimaryColor": "#1C1B19"
+  },
+  {
+    "Name": "Ivory",
+    "PrimaryColor": "#DFDDD5"
+  }
+]

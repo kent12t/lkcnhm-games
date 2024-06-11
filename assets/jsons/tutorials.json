@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Tutorial",
+    "introTextIdList": [
+      "recNi4Sfi9VoisN89",
+      "rec1HgtGLoulBpwDJ",
+      "recNP1umFnqyva5TI"
+    ],
+    "bgImage": "assets/images/tutorial-bg.png",
+    "introHeaderIdList": [
+      "recPNpdirreeTrDq2",
+      "recIo1KWuLFdI8SPx",
+      "rec4AE0eSIBXGzKk2"
+    ],
+    "tutorialImageIdList": [
+      "rec06lUQ17DcWLCIt",
+      "rec8AzHH01r8dCDRC",
+      "recqd7iEerxABplQb"
+    ],
+    "introTextList": [
+      "Using the icons as reference, go to each checkpoint marked on the map to start the activity.",
+      "Place your NFC-enabled smartphone at the Musee* scan point for a few seconds until the activity is launched.",
+      "Complete the activity to earn a stamp on the home screen."
+    ],
+    "introHeaderList": [
+      "Tutorial",
+      "Tutorial",
+      "Tutorial"
+    ],
+    "tutorialImageList": [
+      "assets/images/tutorial-icon-1.png",
+      "assets/images/tutorial-icon-2.png",
+      "assets/images/tutorial-icon-3.png"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "title": "In the footsteps of a naturalist*",
+    "introTextIdList": [
+      "rec390a3xYrCROh8x",
+      "recwtvhOWSG0bpMLq",
+      "recmfgIS2TNHQnMkw"
+    ],
+    "bgImageUrl": "assets/images/onboarding/onboarding-bg.png",
+    "logoImageUrl": "assets/images/onboarding/onboarding-logo.png",
+    "date": "2023-04-18",
+    "introTextList": [
+      "Together with Lee Kong Chian Natural History Museum and Musee*, start your journey and immerse in an interactive learning experience.",
+      "Step into the past, and follow In the Footsteps of a Naturalist* to explore Singapore, its rainforests, and rich biodiversity in the 1800s.",
+      "Find all four checkpoints in the Heritage Gallery and unlock activities that will challenge you to think, act, and feel like a naturalist."
+    ]
+  }
+]
