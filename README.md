@@ -22,9 +22,10 @@ This repository contains a collection of games developed by [Kent](https://githu
     - Sort 4 insects into their corresponding classification boxes
 
 ## To-do List
-[ ] Implement adaptive layout for wider screens (slightly tougher on a purely p5.js app to be honest)
-[ ] Implement back button
-[ ] Redo the UI for `index.html`
+- [x] Add a readme page
+- [ ] Implement adaptive layout for wider screens (slightly tougher on a purely p5.js app to be honest)
+- [ ] Implement back button
+- [ ] Redo the UI for `index.html`
 
 ## Installation
 
