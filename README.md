@@ -23,6 +23,10 @@ There is no build step. Serve the folder with any static server (for example the
 - The layout is built for phones. A wider-screen layout would be hard to do in a purely p5.js app.
 - The menu in `index.html` needs a redesign, and there is no back button.
 
+## Contributing
+
+Ideas for new games or improvements to the existing ones are welcome. Please open a pull request.
+
 ## Credits
 
 The app was designed by the Design Incubation Centre on Musee, which Hoang Anh originally designed. Yuta Nakayama and I developed the interface and app: Yuta built the app foundation, NFC, the bridge between Flutter and the games, integration, and release, and I made the four games and contributed Flutter UI and navigation. Chan Khee Hwee did graphic design and communications, Tommy Cheong product design, and Poh Yun Ru photography and videography. Credits follow the Design Incubation Centre's project page.
@@ -33,4 +37,4 @@ Games by [Kent](https://github.com/kent12t).
 
 ## License
 
-The code is under the [MIT License](LICENSE). The artwork and any museum content remain with their creators and the museum, and the license does not grant rights to them.
+This repository is licensed under the [MIT License](LICENSE).
